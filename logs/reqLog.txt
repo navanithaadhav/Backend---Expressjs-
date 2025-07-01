@@ -1,0 +1,6 @@
+2025-03-26 23:31:13 	4196b50f-86f7-41b1-a991-9d7c3743115e 	GET 	 undefined	/newpage.html 	/newpage.html
+2025-03-26 23:31:21 	db61e761-75cb-4d11-a0ae-587306584176 	GET 	 undefined	/ 	/
+2025-03-26 23:31:22 	7143d021-0498-4727-8136-c41ba99dc936 	GET 	 undefined	/css/style.css 	/css/style.css
+
+2025-03-27 00:13:43 	6c30dff0-ebda-4d70-9029-aea74f392fc3 	GET 	 undefined	 / 	/
+2025-03-27 00:13:43 	e2169afd-2c6b-461c-831c-7e254c7160dc 	GET 	 undefined	 /css/style.css 	/css/style.css
